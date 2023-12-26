@@ -1,1 +1,2 @@
-console.log("run from here");
+const main= require('./main.js')
+console.log(main);
